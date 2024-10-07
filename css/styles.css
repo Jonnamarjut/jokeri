@@ -1,0 +1,20 @@
+html {
+    padding: 1em;
+}
+
+table {
+    margin-top: 3em;
+  }
+
+  td {
+    border: 1px solid #000;
+    border-radius: 5em;
+    padding: 10px;
+    width: 30px;
+    text-align: center;
+    background-color: #dd8e92;
+  }
+  p {
+    margin-top: 3em;
+    font-weight: bold;
+  }
